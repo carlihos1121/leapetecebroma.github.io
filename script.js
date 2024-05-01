@@ -21,7 +21,7 @@ function getRandomPosition() {
   }
   
   function mostrarMensaje() {
-    alert('Jda eres una cochina, pero bueno, dime cuando :D');
+    alert('Le has dado si');
   }
   
   window.onload = function() {
